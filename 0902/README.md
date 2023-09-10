@@ -1,6 +1,6 @@
 # 0902 mini test
 - platform : boj
 - problem
-  - Q13302
-  - Q1043
-  - Q16235
+  - Q1 : boj13302
+  - Q2 : boj1043
+  - Q3 : boj16235
